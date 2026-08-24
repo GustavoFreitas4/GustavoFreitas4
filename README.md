@@ -7,9 +7,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavohfds/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Gustavo Freitas" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GustavoFreitas4&style=for-the-badge&color=1f6feb" alt="Visualizações do perfil" />
+  <a href="mailto:freitasdossantos128@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
@@ -33,10 +35,7 @@ class GustavoFreitas:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,mysql,powerbi&theme=dark" alt="Python, VS Code, SQL e Power BI" />
 </p>
 
 ## 📈 GitHub Stats
