@@ -21,7 +21,9 @@ Prazer! Sou Gustavo Freitas, formado em Análise e Desenvolvimento de Sistemas e
 Gosto de explorar informações, entender o que elas revelam e pensar em formas de transformar esse conhecimento em soluções práticas. Tenho especial interesse em análise de dados, dashboards, automação e desenvolvimento.
 
 Minha forma de aprender: investigar, experimentar e construir projetos que façam sentido no mundo real.
+
 📍 Baixada Santista, SP   🎓 Ciência de Dados   💻 ADS
+
 <br>
 ## 02 · Minhas áreas de interesse
 
@@ -52,11 +54,6 @@ Meu interesse está na conexão entre essas áreas: entender os dados primeiro, 
 </a>
 <br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoFreitas4&bg_color=07141C&color=A5CAD0&title_color=50CED0&line=11989F&point=5ADADD&area_color=0D5C63&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
-
-
-<sub>Os gráficos são atualizados por serviços externos a partir da atividade pública no GitHub; podem ficar temporariamente indisponíveis.</sub>
-</div>
 
 <br>
 
