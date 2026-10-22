@@ -11,34 +11,46 @@
 <a href="https://github.com/GustavoFreitas4?tab=repositories"><img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-0D5C63?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 </p>
 
-<sub> <a href="#01--quem-sou-eu">SOBRE MIM</a>   ━   <a href="#02--minhas-áreas-de-interesse">ÁREAS</a>   ━   <a href="#03--meu-universo-de-ferramentas">FERRAMENTAS</a>   ━   <a href="#04--minha-atividade-no-github">ATIVIDADE</a>   ━   <a href="#05--vamos-nos-conectar">CONTATO</a> </sub>
+<sub> <a href="#01--quem-sou-eu">SOBRE MIM</a> &nbsp; ━ &nbsp; <a href="#02--minhas-áreas-de-interesse">ÁREAS</a> &nbsp; ━ &nbsp; <a href="#03--meu-universo-de-ferramentas">FERRAMENTAS</a> &nbsp; ━ &nbsp; <a href="#04--minha-atividade-no-github">ATIVIDADE</a> &nbsp; ━ &nbsp; <a href="#05--vamos-nos-conectar">CONTATO</a> </sub>
+
 </div>
 
+<br>
 
-01 · Quem sou eu
-Prazer! Sou Gustavo Freitas, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência de Dados na FATEC Rubens Lara.
+## 01 · Quem sou eu
 
-Gosto de explorar informações, entender o que elas revelam e pensar em formas de transformar esse conhecimento em soluções práticas. Tenho especial interesse em análise de dados, dashboards, automação e desenvolvimento.
+Prazer! Sou **Gustavo Freitas**, formado em **Análise e Desenvolvimento de Sistemas** e atualmente estudante de **Ciência de Dados na FATEC Rubens Lara**.
 
-Minha forma de aprender: investigar, experimentar e construir projetos que façam sentido no mundo real.
+Gosto de explorar informações, entender o que elas revelam e pensar em formas de transformar esse conhecimento em soluções práticas. Tenho especial interesse em **análise de dados, dashboards, automação e desenvolvimento**.
 
-📍 Baixada Santista, SP   🎓 Ciência de Dados   💻 ADS
+**Minha forma de aprender:** investigar, experimentar e construir projetos que façam sentido no mundo real.
 
-02 · Minhas áreas de interesse
+`📍 Baixada Santista, SP` &nbsp; `🎓 Ciência de Dados` &nbsp; `💻 ADS`
+
+<br>
+
+## 02 · Minhas áreas de interesse
+
 <div align="center">
 <img src="assets/areas.svg" width="100%" alt="Quatro áreas alinhadas: Dados, Business Intelligence, Automação e Desenvolvimento" />
 </div>
 
-Meu interesse está na conexão entre essas áreas: entender os dados primeiro, encontrar boas formas de visualizá-los e aplicar automação e programação para resolver problemas.
+Meu interesse está na conexão entre essas áreas: **entender os dados primeiro**, encontrar boas formas de visualizá-los e aplicar automação e programação para resolver problemas.
 
-03 · Meu universo de ferramentas
+<br>
+
+## 03 · Meu universo de ferramentas
+
 <div align="center">
 <img src="assets/ferramentas.svg" width="100%" alt="Ferramentas organizadas por área: dados com Python SQL e MySQL; BI com Power BI e Excel; automação com Power Automate e Copilot Studio; desenvolvimento com HTML CSS JavaScript VS Code Git e GitHub" />
 </div>
 
 <sub>Ferramentas que utilizo e continuo estudando. Cada grupo representa uma etapa diferente do meu processo de aprendizado e criação.</sub>
 
-04 · Minha atividade no GitHub
+<br>
+
+## 04 · Minha atividade no GitHub
+
 <div align="center">
 
 <a href="https://github.com/GustavoFreitas4">
@@ -48,22 +60,26 @@ Meu interesse está na conexão entre essas áreas: entender os dados primeiro, 
 <img height="177" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoFreitas4&layout=compact&langs_count=6&hide_border=true&bg_color=07141C&title_color=50CED0&text_color=D9E9EB" alt="Linguagens mais usadas nos repositórios públicos" />
 </a>
 
+<br>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoFreitas4&bg_color=07141C&color=A5CAD0&title_color=50CED0&line=11989F&point=5ADADD&area_color=0D5C63&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 <sub>Os gráficos são atualizados por serviços externos a partir da atividade pública no GitHub; podem ficar temporariamente indisponíveis.</sub>
+
 </div>
 
+<br>
 
-05 · Vamos nos conectar?
-Estou sempre aberto a trocar ideias, aprender com outras pessoas e conhecer projetos interessantes envolvendo dados, tecnologia e automação.
+## 05 · Vamos nos conectar?
+
+Estou sempre aberto a **trocar ideias, aprender com outras pessoas e conhecer projetos interessantes** envolvendo dados, tecnologia e automação.
+
 <div align="center">
 
-
-<a href="https://www.linkedin.com/in/gustavohfds/"><img src="https://img.shields.io/badge/ME%20ENCONTRE%20NO%20LINKEDIN-0D5C63?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil no LinkedIn" /></a> 
+<a href="https://www.linkedin.com/in/gustavohfds/"><img src="https://img.shields.io/badge/ME%20ENCONTRE%20NO%20LINKEDIN-0D5C63?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver perfil no LinkedIn" /></a>&nbsp;
 <a href="https://github.com/GustavoFreitas4?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR%20MEUS%20REPOSIT%C3%93RIOS-0D5C63?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios" /></a>
 
-
+<br><br>
 
 <img src="assets/rodape.svg" width="100%" alt="Aprender, analisar e construir: transformando dados em decisões úteis" />
 
