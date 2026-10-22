@@ -27,12 +27,9 @@ Minha forma de aprender: investigar, experimentar e construir projetos que faça
 <br>
 
 ## 02 · Minhas áreas de interesse
-
 <div align="center">
 <img src="areasneon.png" width="100%" alt="tres áreas alinhadas: Dados, Business Intelligence, automação e Desenvolvimento" />
 </div>
-
-
 Meu interesse está na conexão entre essas áreas: entender os dados primeiro, encontrar boas formas de visualizá-los e aplicar automação e programação para resolver problemas.
 <br>
 ## 03 · Meu universo de ferramentas
