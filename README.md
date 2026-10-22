@@ -57,12 +57,16 @@ Meu interesse está na conexão entre essas áreas: entender os dados primeiro, 
   </a>
 </p>
 
-username=GustavoFreitas4&bg_color=07141C&color=A5CAD0&title_color=50CED0&line=11989F&point=5ADADD&area_color=0D5C63&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
+=07141C&color=A5CAD0&title_color=50CED0&line=11989F&point=5ADADD&area_color=0D5C63&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 
 <sub>Os gráficos são atualizados por serviços externos a partir da atividade pública no GitHub; podem ficar temporariamente indisponíveis.</sub>
 </div>
-
+<p align="center">
+  <a href="https://github.com/GustavoFreitas4?tab=overview">
+    <img src="https://img.shields.io/badge/VER%20MINHAS%20CONTRIBUIÇÕES-0D5C63?style=for-the-badge&logo=github&logoColor=white" alt="Ver minhas contribuições" />
+  </a>
+</p>
 <br>
 
 ## 05 · Vamos nos conectar?
