@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="capa.svg" width="100%" alt="Gustavo Freitas: Ciência de Dados, Business Intelligence e Automação" />
+<img src="Portfólio Futurista de Ciência de Dados.png" width="100%" alt="Gustavo Freitas: Ciência de Dados, Business Intelligence e Automação" />
 <!-- Animação com frases curtas, sem poluição visual -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1300&color=33C9CE&center=true&vCenter=true&width=840&height=61&lines=Dados+que+contam+hist%C3%B3rias.;Dashboards+que+facilitam+decis%C3%B5es.;Automa%C3%A7%C3%B5es+que+ganham+tempo.;Aprender.+Criar.+Evoluir." alt="Frases animadas sobre dados, BI e automação" />
 <p>
