@@ -32,6 +32,7 @@ Minha forma de aprender: investigar, experimentar e construir projetos que faça
 </div>
 Meu interesse está na conexão entre essas áreas: entender os dados primeiro, encontrar boas formas de visualizá-los e aplicar automação e programação para resolver problemas.
 <br>
+
 ## 03 · Meu universo de ferramentas
 
 <div align="center">
