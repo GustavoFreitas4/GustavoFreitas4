@@ -13,7 +13,6 @@
 </div>
 
 <br>
-
 ## 01 · Quem sou eu
 
 Prazer! Sou Gustavo Freitas, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência de Dados na FATEC Rubens Lara.
@@ -52,11 +51,7 @@ Meu interesse está na conexão entre essas áreas: entender os dados primeiro, 
 </a>
 <br>
 
-<p align="center">
-  <a href="https://github.com/GustavoFreitas4?tab=overview">
-    <img src="https://img.shields.io/badge/VER%20MINHAS%20CONTRIBUIÇÕES-0D5C63?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoFreitas4&bg_color=07141C&color=A5CAD0&title_color=50CED0&line=11989F&point=5ADADD&area_color=0D5C63&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
 
 
 <sub>Os gráficos são atualizados por serviços externos a partir da atividade pública no GitHub; podem ficar temporariamente indisponíveis.</sub>
