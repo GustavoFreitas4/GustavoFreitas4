@@ -29,7 +29,7 @@ Minha forma de aprender: investigar, experimentar e construir projetos que faça
 ## 02 · Minhas áreas de interesse
 
 <div align="center">
-<img src="areas.svg" width="100%" alt="Quatro áreas alinhadas: Dados, Business Intelligence, Automação e Desenvolvimento" />
+<img src="areasneon.png" width="100%" alt="Quatro áreas alinhadas: Dados, Business Intelligence, Automação e Desenvolvimento" />
 </div>
 
 
@@ -38,7 +38,7 @@ Meu interesse está na conexão entre essas áreas: entender os dados primeiro, 
 ## 03 · Meu universo de ferramentas
 
 <div align="center">
-<img src="ferramentas.svg" width="100%" alt="Ferramentas organizadas por área: dados com Python SQL e MySQL; BI com Power BI e Excel; automação com Power Automate e Copilot Studio; desenvolvimento com HTML CSS JavaScript VS Code Git e GitHub" />
+<img src="ferramentasneon.png" width="100%" alt="Ferramentas organizadas por área: dados com Python SQL e MySQL; BI com Power BI e Excel; automação com Power Automate e Copilot Studio; desenvolvimento com HTML CSS JavaScript VS Code Git e GitHub" />
 </div>
 
 
