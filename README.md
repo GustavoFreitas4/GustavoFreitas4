@@ -13,6 +13,7 @@
 </div>
 
 <br>
+
 ## 01 · Quem sou eu
 
 Prazer! Sou Gustavo Freitas, formado em Análise e Desenvolvimento de Sistemas e atualmente estudante de Ciência de Dados na FATEC Rubens Lara.
