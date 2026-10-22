@@ -29,7 +29,7 @@ Minha forma de aprender: investigar, experimentar e construir projetos que faça
 ## 02 · Minhas áreas de interesse
 
 <div align="center">
-<img src="areasneon.png" width="100%" alt="Quatro áreas alinhadas: Dados, Business Intelligence, Automação e Desenvolvimento" />
+<img src="areasneon.png" width="100%" alt="tres áreas alinhadas: Dados, Business Intelligence e Desenvolvimento" />
 </div>
 
 
